@@ -2,3 +2,5 @@ GitHub on faili või koodi jagamis teenus, et teha koostööd teiste inimestega.
 GitHubi kasutavad tarkvara arendajad, kes tahavad ühte koodi koos kirjutada, lisada sinna uusi asju, teha paremaks.
 
 Mina saaksin kasutada GitHubi kasutada mingi veebilehe koodi kirjutamiseks. Lisaks saaksin ma seda kasutada õppimiseks ehk siis vaadata teiste inimeste töid ning ideid endale sealt saada.
+
+GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris. 2009. aasta algusest muutus GitHub aina populaarsemaks, ning sama aasta 24. veebruaril teatasid GitHubi loojad, et esimese aasta jooksul kogunes GitHubi 46 000 koodivaramut, millest koguni 17 000 olid loodud 2009. aasta alguses. Sama aasta 5. juulil teatati, et GitHubi on registreerunud üle 100 000 kasutaja.
