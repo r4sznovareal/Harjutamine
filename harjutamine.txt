@@ -1,2 +1,4 @@
 GitHub on faili või koodi jagamis teenus, et teha koostööd teiste inimestega.
 GitHubi kasutavad tarkvara arendajad, kes tahavad ühte koodi koos kirjutada, lisada sinna uusi asju, teha paremaks.
+
+Mina saaksin kasutada GitHubi kasutada mingi veebilehe koodi kirjutamiseks. Lisaks saaksin ma seda kasutada õppimiseks ehk siis vaadata teiste inimeste töid ning ideid endale sealt saada.
